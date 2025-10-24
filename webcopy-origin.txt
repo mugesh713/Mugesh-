@@ -1,0 +1,760 @@
+Uri: https://fonts.gstatic.com/s/coveredbyyourgrace/v17/QGYwz-AZahWOJJI9kykWW9mD6opopoqXSOSEEQgs.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\s\coveredbyyourgrace\v17\QGYwz-AZahWOJJI9kykWW9mD6opopoqXSOSEEQgs.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/coveredbyyourgrace/v17/QGYwz-AZahWOJJI9kykWW9mD6opopoqXSOSEHwgsm6Y.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\s\coveredbyyourgrace\v17\QGYwz-AZahWOJJI9kykWW9mD6opopoqXSOSEHwgsm6Y.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5tRR232VGM.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5tRR232VGM.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5tRSW32.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5tRSW32.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKK58VXh.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\s\dmsans\v17\rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKK58VXh.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKy58Q.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\s\dmsans\v17\rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKy58Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\s\dmsans\v17\rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\s\dmsans\v17\rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/geist/v4/gyByhwUxId8gMEwcGFU.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\s\geist\v4\gyByhwUxId8gMEwcGFU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/geist/v4/gyByhwUxId8gMEwSGFWfOw.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\s\geist\v4\gyByhwUxId8gMEwSGFWfOw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/geist/v4/gyByhwUxId8gMEwYGFWfOw.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\s\geist\v4\gyByhwUxId8gMEwYGFWfOw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\1K3W8DizY3v4emK8Mb08YHxTbs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/1ZFS7N918ojhhd0nQWdj3jz4w.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\1ZFS7N918ojhhd0nQWdj3jz4w.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5A3Ce6C9YYmCjpQx9M4inSaKU.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\5A3Ce6C9YYmCjpQx9M4inSaKU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6mJuEAguuIuMog10gGvH5d3cl8.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\6mJuEAguuIuMog10gGvH5d3cl8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\b6Y37FthZeALduNqHicBT6FutY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/BkDpl4ghaqvMi1btKFyG2tdbec.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\BkDpl4ghaqvMi1btKFyG2tdbec.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/d3tHnaQIAeqiE5hGcRw4mmgWYU.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\d3tHnaQIAeqiE5hGcRw4mmgWYU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DolVirEGb34pEXEp8t8FQBSK4.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\DolVirEGb34pEXEp8t8FQBSK4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\DXD0Q7LSl7HEvDzucnyLnGBHM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\GIryZETIX4IFypco5pYZONKhJIo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/H4TfENUY1rh8R9UaSD6vngjJP3M.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\H4TfENUY1rh8R9UaSD6vngjJP3M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/IETjvc5qzUaRoaruDpPSwCUM8.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\IETjvc5qzUaRoaruDpPSwCUM8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/lEJLP4R0yuCaMCjSXYHtJw72M.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\lEJLP4R0yuCaMCjSXYHtJw72M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/oLCoaT3ioA0fHdJnWR9W6k7NY.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\oLCoaT3ioA0fHdJnWR9W6k7NY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/otTaNuNpVK4RbdlT7zDDdKvQBA.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\otTaNuNpVK4RbdlT7zDDdKvQBA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/oYaAX5himiTPYuN8vLWnqBbfD2s.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\oYaAX5himiTPYuN8vLWnqBbfD2s.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Sj0PCHQSBjFmEp6NBWg6FNaKc.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\Sj0PCHQSBjFmEp6NBWg6FNaKc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\syRNPWzAMIrcJ3wIlPIP43KjQs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\tUSCtfYVM1I1IchuyCwz9gDdQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/v2q8JTTTs7McDMSEhnxAIBqd0.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\v2q8JTTTs7McDMSEhnxAIBqd0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\VgYFWiwsAC5OYxAycRXXvhze58.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\vQyevYAyHtARFwPqUzQGpnDs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/xYYWaj7wCU5zSQH0eXvSaS19wo.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\xYYWaj7wCU5zSQH0eXvSaS19wo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/zAMK70AQRFSShJgUiaR5IiIhgzk.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\assets\zAMK70AQRFSShJgUiaR5IiIhgzk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/images/0Rpv1S1JREjr70yBaUsECTFAwtI.jpg?scale-down-to=512&width=947&height=945
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\0Rpv1S1JREjr70yBaUsECTFAwtI-1.jpg
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/0Rpv1S1JREjr70yBaUsECTFAwtI.jpg?width=947&height=945
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\0Rpv1S1JREjr70yBaUsECTFAwtI.jpg
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1I4xLRYc7MgLb258LLw7xFcM8pM.jpg?scale-down-to=1024&width=1086&height=1086
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\1I4xLRYc7MgLb258LLw7xFcM8pM-2.jpg
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1I4xLRYc7MgLb258LLw7xFcM8pM.jpg?scale-down-to=512&width=1086&height=1086
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\1I4xLRYc7MgLb258LLw7xFcM8pM-1.jpg
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1I4xLRYc7MgLb258LLw7xFcM8pM.jpg?width=1086&height=1086
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\1I4xLRYc7MgLb258LLw7xFcM8pM.jpg
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1mMPpY08AoOLZN9yAI4e6Y8PEs.png?width=3267&height=1975
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\1mMPpY08AoOLZN9yAI4e6Y8PEs.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1V5GlNcCJLwIeepFNN5Xkonhoc.png?scale-down-to=1024&width=3006&height=2415
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\1V5GlNcCJLwIeepFNN5Xkonhoc-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1V5GlNcCJLwIeepFNN5Xkonhoc.png?scale-down-to=2048&width=3006&height=2415
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\1V5GlNcCJLwIeepFNN5Xkonhoc-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1V5GlNcCJLwIeepFNN5Xkonhoc.png?scale-down-to=512&width=3006&height=2415
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\1V5GlNcCJLwIeepFNN5Xkonhoc-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1V5GlNcCJLwIeepFNN5Xkonhoc.png?width=3006&height=2415
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\1V5GlNcCJLwIeepFNN5Xkonhoc.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1VpfeB4iZZF4nXr7pbS40rkocxk.png?scale-down-to=1024&width=1333&height=1405
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\1VpfeB4iZZF4nXr7pbS40rkocxk-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1VpfeB4iZZF4nXr7pbS40rkocxk.png?width=1333&height=1405
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\1VpfeB4iZZF4nXr7pbS40rkocxk.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1xOqMa4sAAwBCrdkiSJfIXups.png
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\1xOqMa4sAAwBCrdkiSJfIXups.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1xOqMa4sAAwBCrdkiSJfIXups.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\1xOqMa4sAAwBCrdkiSJfIXups-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1xOqMa4sAAwBCrdkiSJfIXups.png?scale-down-to=2048
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\1xOqMa4sAAwBCrdkiSJfIXups-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1xOqMa4sAAwBCrdkiSJfIXups.png?scale-down-to=4096
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\1xOqMa4sAAwBCrdkiSJfIXups-4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1xOqMa4sAAwBCrdkiSJfIXups.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\1xOqMa4sAAwBCrdkiSJfIXups-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/2DiqvhXJ0wqFnzLaD4f598KNw.png?width=3550&height=2177
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\2DiqvhXJ0wqFnzLaD4f598KNw.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/5zigXIxzBhdez9Imck1u9Cka9us.png?scale-down-to=2048&width=1179&height=2556
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\5zigXIxzBhdez9Imck1u9Cka9us-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/5zigXIxzBhdez9Imck1u9Cka9us.png?width=1179&height=2556
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\5zigXIxzBhdez9Imck1u9Cka9us.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/6J3gYPc0Ao7JaHzAY7lk5cRuBIg.png?scale-down-to=1024&width=3173&height=1780
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\6J3gYPc0Ao7JaHzAY7lk5cRuBIg-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/6J3gYPc0Ao7JaHzAY7lk5cRuBIg.png?scale-down-to=2048&width=3173&height=1780
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\6J3gYPc0Ao7JaHzAY7lk5cRuBIg-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/6J3gYPc0Ao7JaHzAY7lk5cRuBIg.png?scale-down-to=512&width=3173&height=1780
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\6J3gYPc0Ao7JaHzAY7lk5cRuBIg-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/6J3gYPc0Ao7JaHzAY7lk5cRuBIg.png?width=3173&height=1780
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\6J3gYPc0Ao7JaHzAY7lk5cRuBIg.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/7CL9bFiq8XQRnDZR3sjgx6VKONg.png
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\7CL9bFiq8XQRnDZR3sjgx6VKONg.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/7dBZxa7EqsCaEyAzZk6L2gvfLg.jpg?scale-down-to=512&width=904&height=768
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\7dBZxa7EqsCaEyAzZk6L2gvfLg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/7dBZxa7EqsCaEyAzZk6L2gvfLg.jpg?width=904&height=768
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\7dBZxa7EqsCaEyAzZk6L2gvfLg.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/7GdNf8zkYHMKiawJpEOsWPcb7Ko.png
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\7GdNf8zkYHMKiawJpEOsWPcb7Ko.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/8TYXVFmpacBaUrrpL2yPwmW4eGs.jpeg?width=100&height=100
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\8TYXVFmpacBaUrrpL2yPwmW4eGs.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/AOfIWqtCu56OqktpHhsYUdw.png?scale-down-to=512&width=722&height=800
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\AOfIWqtCu56OqktpHhsYUdw.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/AOfIWqtCu56OqktpHhsYUdw.png?width=722&height=800
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\AOfIWqtCu56OqktpHhsYUdw-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/C3DDKS40mjVfWDwvyN1O3Vzf4oI.png?width=44&height=51
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\C3DDKS40mjVfWDwvyN1O3Vzf4oI.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/CcwWqAgPS76aQJcXvYbOINxayU.png?scale-down-to=512&width=722&height=800
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\CcwWqAgPS76aQJcXvYbOINxayU.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/CcwWqAgPS76aQJcXvYbOINxayU.png?width=722&height=800
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\CcwWqAgPS76aQJcXvYbOINxayU-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/CSAFEexZw8Kh4UuVNQ6o9IevaNs.jpeg?width=100&height=100
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\CSAFEexZw8Kh4UuVNQ6o9IevaNs.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/D0vZEbcEFt6g6dFCqn43bnAhgM.png?scale-down-to=1024&width=3584&height=3584
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\D0vZEbcEFt6g6dFCqn43bnAhgM.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/D0vZEbcEFt6g6dFCqn43bnAhgM.png?scale-down-to=2048&width=3584&height=3584
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\D0vZEbcEFt6g6dFCqn43bnAhgM-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/D0vZEbcEFt6g6dFCqn43bnAhgM.png?scale-down-to=512&width=3584&height=3584
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\D0vZEbcEFt6g6dFCqn43bnAhgM-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/D0vZEbcEFt6g6dFCqn43bnAhgM.png?width=3584&height=3584
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\D0vZEbcEFt6g6dFCqn43bnAhgM-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/dipq3fsk7eoCSO3MokEaVX0AAlw.jpeg?width=100&height=100
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\dipq3fsk7eoCSO3MokEaVX0AAlw.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Dq4FkPn5j2ExdIV375Iltt658c.png
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\Dq4FkPn5j2ExdIV375Iltt658c.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Dq4FkPn5j2ExdIV375Iltt658c.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\Dq4FkPn5j2ExdIV375Iltt658c-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Dq4FkPn5j2ExdIV375Iltt658c.png?scale-down-to=2048
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\Dq4FkPn5j2ExdIV375Iltt658c-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Dq4FkPn5j2ExdIV375Iltt658c.png?scale-down-to=4096
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\Dq4FkPn5j2ExdIV375Iltt658c-4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Dq4FkPn5j2ExdIV375Iltt658c.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\Dq4FkPn5j2ExdIV375Iltt658c-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/eC3oUJmUzDqWFwzefUEymtG7Y.jpeg?width=100&height=100
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\eC3oUJmUzDqWFwzefUEymtG7Y.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Eh4hBzkTodspz5szfXTg58jjB0.png?width=3405&height=2424
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\Eh4hBzkTodspz5szfXTg58jjB0.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/euBYovVyUlKVQSjWmcWCWiw6TvI.png
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\euBYovVyUlKVQSjWmcWCWiw6TvI.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/euBYovVyUlKVQSjWmcWCWiw6TvI.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\euBYovVyUlKVQSjWmcWCWiw6TvI-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/euBYovVyUlKVQSjWmcWCWiw6TvI.png?scale-down-to=2048
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\euBYovVyUlKVQSjWmcWCWiw6TvI-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/euBYovVyUlKVQSjWmcWCWiw6TvI.png?scale-down-to=4096
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\euBYovVyUlKVQSjWmcWCWiw6TvI-4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/euBYovVyUlKVQSjWmcWCWiw6TvI.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\euBYovVyUlKVQSjWmcWCWiw6TvI-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/G3JrGfhit6kcF3ps1CHuC5jOjM.png?width=54&height=54
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\G3JrGfhit6kcF3ps1CHuC5jOjM.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Hh0g8tb10gk81kkxaNYMi7iIaA.png?width=3550&height=2300
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\Hh0g8tb10gk81kkxaNYMi7iIaA.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/htOXGjj3aw2giKDtq4M2LjT3xA.png?width=3550&height=2347
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\htOXGjj3aw2giKDtq4M2LjT3xA.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/hvfX4teCp4fejEpDWavmMLf5pMw.png?scale-down-to=1024&width=1300&height=1190
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\hvfX4teCp4fejEpDWavmMLf5pMw-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/hvfX4teCp4fejEpDWavmMLf5pMw.png?scale-down-to=512&width=1300&height=1190
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\hvfX4teCp4fejEpDWavmMLf5pMw-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/hvfX4teCp4fejEpDWavmMLf5pMw.png?width=1300&height=1190
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\hvfX4teCp4fejEpDWavmMLf5pMw.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/hYNCdqbszY8bfsrepp4tZvg5bG8.png?width=425&height=347
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\hYNCdqbszY8bfsrepp4tZvg5bG8.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/iwfjJGQz9lSYfdDaxqXGq1EWC8.png
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\iwfjJGQz9lSYfdDaxqXGq1EWC8.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/iwfjJGQz9lSYfdDaxqXGq1EWC8.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\iwfjJGQz9lSYfdDaxqXGq1EWC8-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Je3Qwha46YzeuwMYoEIg6ttad0.png?scale-down-to=512&width=722&height=800
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\Je3Qwha46YzeuwMYoEIg6ttad0.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Je3Qwha46YzeuwMYoEIg6ttad0.png?width=722&height=800
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\Je3Qwha46YzeuwMYoEIg6ttad0-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/jZPxYTlRUHKarzAsMcxZCL2M72U.png
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\jZPxYTlRUHKarzAsMcxZCL2M72U.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/jZPxYTlRUHKarzAsMcxZCL2M72U.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\jZPxYTlRUHKarzAsMcxZCL2M72U-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/kTlutHAdKXZ6JISQQRHH3ab9t5M.jpg?scale-down-to=1024&width=1050&height=1241
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\kTlutHAdKXZ6JISQQRHH3ab9t5M-1.jpg
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/kTlutHAdKXZ6JISQQRHH3ab9t5M.jpg?width=1050&height=1241
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\kTlutHAdKXZ6JISQQRHH3ab9t5M.jpg
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/kUnw8ggZ9TzOcHV0qix8V3Lhmo.png?width=3153&height=2327
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\kUnw8ggZ9TzOcHV0qix8V3Lhmo.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/LCb4YpgMLjf6bBXlozUaRkwT6jQ.jpeg?width=100&height=100
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\LCb4YpgMLjf6bBXlozUaRkwT6jQ.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/mEiPuxpQOA7sHLXJXEwCimXAsyQ.png?scale-down-to=1024&width=4120&height=1868
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\mEiPuxpQOA7sHLXJXEwCimXAsyQ-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/mEiPuxpQOA7sHLXJXEwCimXAsyQ.png?scale-down-to=2048&width=4120&height=1868
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\mEiPuxpQOA7sHLXJXEwCimXAsyQ-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/mEiPuxpQOA7sHLXJXEwCimXAsyQ.png?scale-down-to=4096&width=4120&height=1868
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\mEiPuxpQOA7sHLXJXEwCimXAsyQ.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/mEiPuxpQOA7sHLXJXEwCimXAsyQ.png?scale-down-to=512&width=4120&height=1868
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\mEiPuxpQOA7sHLXJXEwCimXAsyQ-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/mEiPuxpQOA7sHLXJXEwCimXAsyQ.png?width=4120&height=1868
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\mEiPuxpQOA7sHLXJXEwCimXAsyQ-4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/MXT5CVAydTomQoyBpF97r8po2k.png
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\MXT5CVAydTomQoyBpF97r8po2k.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/MXT5CVAydTomQoyBpF97r8po2k.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\MXT5CVAydTomQoyBpF97r8po2k-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/MXT5CVAydTomQoyBpF97r8po2k.png?scale-down-to=2048
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\MXT5CVAydTomQoyBpF97r8po2k-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/MXT5CVAydTomQoyBpF97r8po2k.png?scale-down-to=4096
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\MXT5CVAydTomQoyBpF97r8po2k-4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/MXT5CVAydTomQoyBpF97r8po2k.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\MXT5CVAydTomQoyBpF97r8po2k-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ncLu3vt6JWkwoSYBPDDYAqGVo.png?scale-down-to=1024&width=2468&height=2468
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\ncLu3vt6JWkwoSYBPDDYAqGVo.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ncLu3vt6JWkwoSYBPDDYAqGVo.png?scale-down-to=2048&width=2468&height=2468
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\ncLu3vt6JWkwoSYBPDDYAqGVo-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ncLu3vt6JWkwoSYBPDDYAqGVo.png?scale-down-to=512&width=2468&height=2468
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\ncLu3vt6JWkwoSYBPDDYAqGVo-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ncLu3vt6JWkwoSYBPDDYAqGVo.png?width=2468&height=2468
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\ncLu3vt6JWkwoSYBPDDYAqGVo-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/nQwxlqARqr1zL0Er8WgBpWpMAU.png?scale-down-to=1024&width=1024&height=1536
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\nQwxlqARqr1zL0Er8WgBpWpMAU-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/nQwxlqARqr1zL0Er8WgBpWpMAU.png?width=1024&height=1536
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\nQwxlqARqr1zL0Er8WgBpWpMAU.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ocx9zNQRcxbPjV5KFmpVBhqmzs.png
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\ocx9zNQRcxbPjV5KFmpVBhqmzs.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/OEAyJwXQZHnznKhcW9KLhN5xkQo.png?width=500&height=500
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\OEAyJwXQZHnznKhcW9KLhN5xkQo.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/OhKnmxi82ZEbIYPHku1BUlrhTL4.jpeg?width=100&height=100
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\OhKnmxi82ZEbIYPHku1BUlrhTL4.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/OhsJ4ezenUW4ER6mYmLaThpA.jpg?scale-down-to=1024&width=1080&height=1082
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\OhsJ4ezenUW4ER6mYmLaThpA-1.jpg
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/OhsJ4ezenUW4ER6mYmLaThpA.jpg?width=1080&height=1082
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\OhsJ4ezenUW4ER6mYmLaThpA.jpg
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ondTyGYapW6njkUtAjXkfITXkk.jpg?scale-down-to=1024&width=1973&height=2297
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\ondTyGYapW6njkUtAjXkfITXkk-1.jpg
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ondTyGYapW6njkUtAjXkfITXkk.jpg?scale-down-to=2048&width=1973&height=2297
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\ondTyGYapW6njkUtAjXkfITXkk-2.jpg
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ondTyGYapW6njkUtAjXkfITXkk.jpg?width=1973&height=2297
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\ondTyGYapW6njkUtAjXkfITXkk.jpg
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/pLAIiq30MBmYIDp9eHxJWx37nYk.png
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\pLAIiq30MBmYIDp9eHxJWx37nYk.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/pLAIiq30MBmYIDp9eHxJWx37nYk.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\pLAIiq30MBmYIDp9eHxJWx37nYk-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/pVrdXdf1tqofMrq1eCtw6bnhWM.png?width=353&height=353
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\pVrdXdf1tqofMrq1eCtw6bnhWM.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Qdlwh1VSNPpX4kRkSGTimf1t6E.png?scale-down-to=1024&width=1731&height=1714
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\Qdlwh1VSNPpX4kRkSGTimf1t6E-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Qdlwh1VSNPpX4kRkSGTimf1t6E.png?scale-down-to=512&width=1731&height=1714
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\Qdlwh1VSNPpX4kRkSGTimf1t6E-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Qdlwh1VSNPpX4kRkSGTimf1t6E.png?width=1731&height=1714
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\Qdlwh1VSNPpX4kRkSGTimf1t6E.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/QOhR3qbumNr4QXb7DKsHsXFyC5k.png?scale-down-to=1024&width=1924&height=1924
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\QOhR3qbumNr4QXb7DKsHsXFyC5k.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/QOhR3qbumNr4QXb7DKsHsXFyC5k.png?scale-down-to=512&width=1924&height=1924
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\QOhR3qbumNr4QXb7DKsHsXFyC5k-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/QOhR3qbumNr4QXb7DKsHsXFyC5k.png?width=1924&height=1924
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\QOhR3qbumNr4QXb7DKsHsXFyC5k-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/rThwOxRAF3jiDeNdzu3Kz6ypWQI.png?scale-down-to=1024&width=1996&height=1996
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\rThwOxRAF3jiDeNdzu3Kz6ypWQI.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/rThwOxRAF3jiDeNdzu3Kz6ypWQI.png?scale-down-to=512&width=1996&height=1996
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\rThwOxRAF3jiDeNdzu3Kz6ypWQI-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/rThwOxRAF3jiDeNdzu3Kz6ypWQI.png?width=1996&height=1996
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\rThwOxRAF3jiDeNdzu3Kz6ypWQI-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/S3kBESRD3IGv8kPC3gbEC86w1o.png?scale-down-to=1024&width=2347&height=2236
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\S3kBESRD3IGv8kPC3gbEC86w1o-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/S3kBESRD3IGv8kPC3gbEC86w1o.png?scale-down-to=2048&width=2347&height=2236
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\S3kBESRD3IGv8kPC3gbEC86w1o-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/S3kBESRD3IGv8kPC3gbEC86w1o.png?scale-down-to=512&width=2347&height=2236
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\S3kBESRD3IGv8kPC3gbEC86w1o-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/S3kBESRD3IGv8kPC3gbEC86w1o.png?width=2347&height=2236
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\S3kBESRD3IGv8kPC3gbEC86w1o.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/tCa02RSR5ijHaeSNPsLwwS2lc.jpg?scale-down-to=512&width=824&height=717
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\tCa02RSR5ijHaeSNPsLwwS2lc-1.jpg
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/tCa02RSR5ijHaeSNPsLwwS2lc.jpg?width=824&height=717
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\tCa02RSR5ijHaeSNPsLwwS2lc.jpg
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Tf1im7USTjPOevJ8WovBlu1JbE.png
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\Tf1im7USTjPOevJ8WovBlu1JbE.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/V1W55ldvTLg5DB58VFbK5mOU.png?scale-down-to=1024&width=3852&height=2196
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\V1W55ldvTLg5DB58VFbK5mOU-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/V1W55ldvTLg5DB58VFbK5mOU.png?scale-down-to=2048&width=3852&height=2196
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\V1W55ldvTLg5DB58VFbK5mOU-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/V1W55ldvTLg5DB58VFbK5mOU.png?scale-down-to=512&width=3852&height=2196
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\V1W55ldvTLg5DB58VFbK5mOU-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/V1W55ldvTLg5DB58VFbK5mOU.png?width=3852&height=2196
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\V1W55ldvTLg5DB58VFbK5mOU.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/VxaM9XgT1yDwxZbgUESnVdmHDwo.png?scale-down-to=1024&width=1920&height=883
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\VxaM9XgT1yDwxZbgUESnVdmHDwo-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/VxaM9XgT1yDwxZbgUESnVdmHDwo.png?scale-down-to=512&width=1920&height=883
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\VxaM9XgT1yDwxZbgUESnVdmHDwo-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/VxaM9XgT1yDwxZbgUESnVdmHDwo.png?width=1920&height=883
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\VxaM9XgT1yDwxZbgUESnVdmHDwo.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/w2Yr62xvWoF2s2VKwKLqFVddbPg.jpg?scale-down-to=1024&width=1024&height=1099
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\w2Yr62xvWoF2s2VKwKLqFVddbPg-1.jpg
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/w2Yr62xvWoF2s2VKwKLqFVddbPg.jpg?width=1024&height=1099
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\w2Yr62xvWoF2s2VKwKLqFVddbPg.jpg
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/wg6yV0L2zRs3NDvR1E2xVqIO3Y.png?scale-down-to=1024&width=1216&height=1216
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\wg6yV0L2zRs3NDvR1E2xVqIO3Y.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/wg6yV0L2zRs3NDvR1E2xVqIO3Y.png?scale-down-to=512&width=1216&height=1216
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\wg6yV0L2zRs3NDvR1E2xVqIO3Y-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/wg6yV0L2zRs3NDvR1E2xVqIO3Y.png?width=1216&height=1216
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\wg6yV0L2zRs3NDvR1E2xVqIO3Y-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Wl0UfXN4bXa2LKh4irV9T4umbW4.jpeg?width=100&height=100
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\Wl0UfXN4bXa2LKh4irV9T4umbW4.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ZDHWNROOLi5QRfvju3wCzUNJ6E.png?width=474&height=390
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\ZDHWNROOLi5QRfvju3wCzUNJ6E.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/sites/6fcXowlXT4DBuSucsrVX0M/framer.BuhMpsbc.mjs
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\sites\6fcXowlXT4DBuSucsrVX0M\framer.BuhMpsbc.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/6fcXowlXT4DBuSucsrVX0M/JslIwwkjxClaNjFYfTOtAIHicjcTTfp0nJguH9f4K5w.CBKPMHnA.mjs
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\sites\6fcXowlXT4DBuSucsrVX0M\JslIwwkjxClaNjFYfTOtAIHicjcTTfp0nJguH9f4K5w.CBKPMHnA.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/6fcXowlXT4DBuSucsrVX0M/motion.Bt0WCZwK.mjs
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\sites\6fcXowlXT4DBuSucsrVX0M\motion.Bt0WCZwK.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/6fcXowlXT4DBuSucsrVX0M/react.B1HIfdOm.mjs
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\sites\6fcXowlXT4DBuSucsrVX0M\react.B1HIfdOm.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/6fcXowlXT4DBuSucsrVX0M/rolldown-runtime.6X8PNUJl.mjs
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\sites\6fcXowlXT4DBuSucsrVX0M\rolldown-runtime.6X8PNUJl.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/6fcXowlXT4DBuSucsrVX0M/script_main._8BYzp4_.mjs
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\sites\6fcXowlXT4DBuSucsrVX0M\script_main._8BYzp4_.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/6fcXowlXT4DBuSucsrVX0M/shared-lib.BN-A3uXX.mjs
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\sites\6fcXowlXT4DBuSucsrVX0M\shared-lib.BN-A3uXX.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/6fcXowlXT4DBuSucsrVX0M/VMX0N7UPjyu7gd1d7LPBLGZ7mK9SzBYjpvqDL89Kvk8.D_o_M4ya.mjs
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\sites\6fcXowlXT4DBuSucsrVX0M\VMX0N7UPjyu7gd1d7LPBLGZ7mK9SzBYjpvqDL89Kvk8.D_o_M4ya.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/icons/default-favicon-dark.v1.png
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\sites\icons\default-favicon-dark.v1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/sites/icons/default-favicon-light.v1.png
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\sites\icons\default-favicon-light.v1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/sites/icons/default-touch-icon.v3.png
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\sites\icons\default-touch-icon.v3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI/PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD/GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\third-party-assets\fontshare\wf\LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI\PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD\GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/OYB4CXKJQXKTNSLJMTDQOIVUL2V5EL7S/WYO2P7DQVV5RNXGMCUO2HL4RJP4VFUAS/6XPIMU23OJVRY676OG5YVJMWEHWICATX.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\third-party-assets\fontshare\wf\OYB4CXKJQXKTNSLJMTDQOIVUL2V5EL7S\WYO2P7DQVV5RNXGMCUO2HL4RJP4VFUAS\6XPIMU23OJVRY676OG5YVJMWEHWICATX.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA/ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB/7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.woff2
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\third-party-assets\fontshare\wf\P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA\ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB\7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.woff2
+Content Type: application/octet-stream
+
+Uri: https://prernakohli.framer.website/
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\index.htm
+Content Type: text/html
+
+Uri: https://prernakohli.framer.website/curation-documentation
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\curation-documentation.html
+Content Type: text/html
+
