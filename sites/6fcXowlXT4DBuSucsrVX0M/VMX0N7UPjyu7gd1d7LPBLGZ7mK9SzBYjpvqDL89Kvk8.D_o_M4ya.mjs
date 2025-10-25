@@ -37503,7 +37503,7 @@ e(() => {
                                           children: u(we, {
                                             AL_NU982V: !0,
                                             dlVBgpKLv: `Download Resume`,
-                                            GT109pdEG: `https://drive.google.com/file/d/1r6MPeWP1_WyDrN5spjaJK7l4SDwxGx2g/view?usp=sharing`,
+                                            GT109pdEG: `https://drive.google.com/file/d/1wNW-86t7OfUGNyCZGHhlMTCO9PbhuFuI/view?usp=sharing`,
                                             height: `100%`,
                                             id: `WbOa4JlUw`,
                                             layoutId: `WbOa4JlUw`,
@@ -40850,7 +40850,7 @@ e(() => {
                                     "--framer-text-color": `var(--token-4ca7d748-6404-4dbd-82d7-1148c1e14e26, rgb(191, 191, 191))`,
                                   },
                                   children: u(I, {
-                                    href: `https://drive.google.com/file/d/1r6MPeWP1_WyDrN5spjaJK7l4SDwxGx2g/view?usp=sharing`,
+                                    href: `https://drive.google.com/file/d/1wNW-86t7OfUGNyCZGHhlMTCO9PbhuFuI/view?usp=sharing`,
                                     motionChild: !0,
                                     nodeId: `OTjKkqkhM`,
                                     openInNewTab: !0,
