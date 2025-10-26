@@ -538,8 +538,8 @@ Uri: https://framerusercontent.com/images/OEAyJwXQZHnznKhcW9KLhN5xkQo.png?width=
 File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\OEAyJwXQZHnznKhcW9KLhN5xkQo.png
 Content Type: image/png
 
-Uri: https://framerusercontent.com/images/OhKnmxi82ZEbIYPHku1BUlrhTL4.jpeg?width=100&height=100
-File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\OhKnmxi82ZEbIYPHku1BUlrhTL4.jpeg
+Uri: https://framerusercontent.com/images/OhKnmxi82ZEbIYPHku1BUlrhTL4.jpg?width=100&height=100
+File Name: C:\Downloaded Web Sites\prernakohli.framer.website\images\OhKnmxi82ZEbIYPHku1BUlrhTL4.jpg
 Content Type: image/jpeg
 
 Uri: https://framerusercontent.com/images/OhsJ4ezenUW4ER6mYmLaThpA.jpg?scale-down-to=1024&width=1080&height=1082

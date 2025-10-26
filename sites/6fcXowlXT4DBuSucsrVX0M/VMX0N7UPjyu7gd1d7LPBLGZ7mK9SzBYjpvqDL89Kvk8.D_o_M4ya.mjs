@@ -34461,7 +34461,7 @@ var uv,
                                           style: {
                                             backgroundImage: `linear-gradient(90deg, rgb(255, 255, 255) 0%, rgba(153, 153, 153, 0) 350%)`,
                                           },
-                                          children: `Snake Game `,
+                                          children: `Experience Cloud `,
                                         }),
                                       }),
                                     }),
@@ -34494,7 +34494,7 @@ var uv,
                                                 style: {
                                                   backgroundImage: `linear-gradient(90deg, rgb(255, 255, 255) 0%, rgba(153, 153, 153, 0) 350%)`,
                                                 },
-                                                children: `UX Casestudy`,
+                                                children: `ReactNative`,
                                               }),
                                             }),
                                           }),
@@ -34597,7 +34597,7 @@ var uv,
                                                 style: {
                                                   backgroundImage: `linear-gradient(90deg, rgb(255, 255, 255) 0%, rgba(153, 153, 153, 0) 350%)`,
                                                 },
-                                                children: `Byjus`,
+                                                children: `Event Management`,
                                               }),
                                             }),
                                           }),
@@ -34618,7 +34618,7 @@ var uv,
                                                 style: {
                                                   backgroundImage: `linear-gradient(90deg, rgb(255, 255, 255) 0%, rgba(153, 153, 153, 0) 350%)`,
                                                 },
-                                                children: `Byjus`,
+                                                children: `Web Application`,
                                               }),
                                             }),
                                           }),
@@ -34638,7 +34638,7 @@ var uv,
                                                 style: {
                                                   backgroundImage: `linear-gradient(90deg, rgb(255, 255, 255) 0%, rgba(153, 153, 153, 0) 350%)`,
                                                 },
-                                                children: `Byjus`,
+                                                children: `Traveller Portal`,
                                               }),
                                             }),
                                           }),
@@ -39435,7 +39435,7 @@ e(() => {
                                         rendersWithMotion: !0,
                                         scopeId: `augiA20Il`,
                                         children: u(Rv, {
-                                          dCx0Bolw9: `Senior Designer Manager`,
+                                          dCx0Bolw9: `Foundation Assosciate`,
                                           height: `100%`,
                                           id: `BsT87GMS4`,
                                           layoutId: `BsT87GMS4`,
@@ -39443,49 +39443,19 @@ e(() => {
                                             {
                                               pixelHeight: 100,
                                               pixelWidth: 100,
-                                              src: `https://framerusercontent.com/images/eC3oUJmUzDqWFwzefUEymtG7Y.jpeg?width=100&height=100`,
+                                              src: `images/eC3oUJmUzDqWFwzefUEymtG7Y.png?width=100&height=100`,
                                             },
                                             ``
                                           ),
                                           name: `Card/ Testimonial Card 1 `,
                                           oHlymWWA0: `https://x.com/MandroDesign`,
-                                          rsuSWE2Wj: `Tamara Fedde`,
+                                          rsuSWE2Wj: `Oracle`,
                                           width: `100%`,
-                                          zJ7dVXMEI: `Prerna brings thoughtfulness, clear communication, and strong collaboration to every project — a reliable designer who consistently elevates both the work and those around her.`,
+                                          zJ7dVXMEI: `Builds robust applications backed by solid database fundamentals and secure enterprise practices.`,
                                         }),
                                       }),
                                     }),
-                                    u(N, {
-                                      height: 333,
-                                      children: u(P, {
-                                        className: `framer-1sgi3pv-container`,
-                                        "data-framer-name": `Card/ Testimonial Card 2`,
-                                        inComponentSlot: !0,
-                                        name: `Card/ Testimonial Card 2`,
-                                        nodeId: `OcZ51dWix`,
-                                        rendersWithMotion: !0,
-                                        scopeId: `augiA20Il`,
-                                        children: u(Rv, {
-                                          dCx0Bolw9: `Product design senior specialist `,
-                                          height: `100%`,
-                                          id: `OcZ51dWix`,
-                                          layoutId: `OcZ51dWix`,
-                                          MRnowVoHC: Ty(
-                                            {
-                                              pixelHeight: 100,
-                                              pixelWidth: 100,
-                                              src: `https://framerusercontent.com/images/8TYXVFmpacBaUrrpL2yPwmW4eGs.jpeg?width=100&height=100`,
-                                            },
-                                            ``
-                                          ),
-                                          name: `Card/ Testimonial Card 2`,
-                                          oHlymWWA0: `https://x.com/MandroDesign`,
-                                          rsuSWE2Wj: `Lexy Noh`,
-                                          width: `100%`,
-                                          zJ7dVXMEI: `Working with Prerna has been a pleasure—her professionalism, warmth, and thoughtful approach stand out. She’s a skilled, caring teammate who adds immense value to every project.`,
-                                        }),
-                                      }),
-                                    }),
+                                    
                                     u(N, {
                                       height: 333,
                                       children: u(P, {
@@ -39497,7 +39467,7 @@ e(() => {
                                         rendersWithMotion: !0,
                                         scopeId: `augiA20Il`,
                                         children: u(Rv, {
-                                          dCx0Bolw9: ``,
+                                          dCx0Bolw9: `Assosciate Developer`,
                                           height: `100%`,
                                           id: `S6XuAAEgL`,
                                           layoutId: `S6XuAAEgL`,
@@ -39505,111 +39475,21 @@ e(() => {
                                             {
                                               pixelHeight: 100,
                                               pixelWidth: 100,
-                                              src: `https://framerusercontent.com/images/dipq3fsk7eoCSO3MokEaVX0AAlw.jpeg?width=100&height=100`,
+                                              src: `images/dipq3fsk7eoCSO3MokEaVX0AAlw.png?width=100&height=100`,
                                             },
                                             ``
                                           ),
                                           name: `Card/ Testimonial Card 3`,
                                           oHlymWWA0: `https://x.com/MandroDesign`,
-                                          rsuSWE2Wj: `MongoDB Associate Developer`,
+                                          rsuSWE2Wj: `MongoDB`,
                                           width: `100%`,
-                                          zJ7dVXMEI: `Working with Prerna at BYJU's was a delight—she consistently delivered quality work on time. Her sharp questioning and clear, thoughtful communication made her a true asset to the team.`,
+                                          zJ7dVXMEI: `Crafts efficient, scalable data solutions with confidence in real-world database architecture.`,
                                         }),
                                       }),
                                     }),
-                                    u(N, {
-                                      height: 333,
-                                      children: u(P, {
-                                        className: `framer-1j17oj-container`,
-                                        "data-framer-name": `Card/ Testimonial Card 4`,
-                                        inComponentSlot: !0,
-                                        name: `Card/ Testimonial Card 4`,
-                                        nodeId: `Rip8RA8yU`,
-                                        rendersWithMotion: !0,
-                                        scopeId: `augiA20Il`,
-                                        children: u(Rv, {
-                                          dCx0Bolw9: `User Experience Designer`,
-                                          height: `100%`,
-                                          id: `Rip8RA8yU`,
-                                          layoutId: `Rip8RA8yU`,
-                                          MRnowVoHC: Ty(
-                                            {
-                                              pixelHeight: 100,
-                                              pixelWidth: 100,
-                                              src: `https://framerusercontent.com/images/Wl0UfXN4bXa2LKh4irV9T4umbW4.jpeg?width=100&height=100`,
-                                            },
-                                            ``
-                                          ),
-                                          name: `Card/ Testimonial Card 4`,
-                                          oHlymWWA0: `https://x.com/MandroDesign`,
-                                          rsuSWE2Wj: ` Iswarya `,
-                                          width: `100%`,
-                                          zJ7dVXMEI: `Prerna is a highly skilled UX designer who blends creativity with functionality to craft impactful solutions. Her collaborative, proactive approach makes her a valuable asset to any team.`,
-                                        }),
-                                      }),
-                                    }),
-                                    u(N, {
-                                      height: 333,
-                                      children: u(P, {
-                                        className: `framer-j520vc-container`,
-                                        "data-framer-name": `Card/ Testimonial Card 5`,
-                                        inComponentSlot: !0,
-                                        name: `Card/ Testimonial Card 5`,
-                                        nodeId: `l_y9XBKUV`,
-                                        rendersWithMotion: !0,
-                                        scopeId: `augiA20Il`,
-                                        children: u(Rv, {
-                                          dCx0Bolw9: `https://www.mongodb.com/students`,
-                                          height: `100%`,
-                                          id: `l_y9XBKUV`,
-                                          layoutId: `l_y9XBKUV`,
-                                          MRnowVoHC: Ty(
-                                            {
-                                              pixelHeight: 100,
-                                              pixelWidth: 100,
-                                              src: `https://framerusercontent.com/images/LCb4YpgMLjf6bBXlozUaRkwT6jQ.jpeg?width=100&height=100`,
-                                            },
-                                            ``
-                                          ),
-                                          name: `Card/ Testimonial Card 5`,
-                                          oHlymWWA0: `https://x.com/MandroDesign`,
-                                          rsuSWE2Wj: `Alli Clark`,
-                                          width: `100%`,
-                                          zJ7dVXMEI: `Prerna is a thoughtful, user-focused UX designer who excels at collaboration, clear communication, and translating insights into intuitive, impactful design make her an invaluable asset to any team.`,
-                                        }),
-                                      }),
-                                    }),
-                                    u(N, {
-                                      height: 333,
-                                      children: u(P, {
-                                        className: `framer-1d1ep79-container`,
-                                        "data-framer-name": `Card/ Testimonial Card 6`,
-                                        inComponentSlot: !0,
-                                        name: `Card/ Testimonial Card 6`,
-                                        nodeId: `SIrbolZF8`,
-                                        rendersWithMotion: !0,
-                                        scopeId: `augiA20Il`,
-                                        children: u(Rv, {
-                                          dCx0Bolw9: `Product design senior specialist `,
-                                          height: `100%`,
-                                          id: `SIrbolZF8`,
-                                          layoutId: `SIrbolZF8`,
-                                          MRnowVoHC: Ty(
-                                            {
-                                              pixelHeight: 100,
-                                              pixelWidth: 100,
-                                              src: `https://framerusercontent.com/images/CSAFEexZw8Kh4UuVNQ6o9IevaNs.jpeg?width=100&height=100`,
-                                            },
-                                            ``
-                                          ),
-                                          name: `Card/ Testimonial Card 6`,
-                                          oHlymWWA0: `https://x.com/MandroDesign`,
-                                          rsuSWE2Wj: ` Krishna Kanth`,
-                                          width: `100%`,
-                                          zJ7dVXMEI: `Prerna stood out among 50+ intern profiles with her creativity, innovation, and impact—quickly earning a full-time role. She streamlined design processes and proved herself invaluable member. `,
-                                        }),
-                                      }),
-                                    }),
+                                    
+                                 
+                                 
                                     u(N, {
                                       height: 333,
                                       children: u(P, {
@@ -39621,7 +39501,7 @@ e(() => {
                                         rendersWithMotion: !0,
                                         scopeId: `augiA20Il`,
                                         children: u(Rv, {
-                                          dCx0Bolw9: ` Head of Product Design`,
+                                          dCx0Bolw9: `AI Specialist`,
                                           height: `100%`,
                                           id: `lmkcwLTW6`,
                                           layoutId: `lmkcwLTW6`,
@@ -39629,15 +39509,15 @@ e(() => {
                                             {
                                               pixelHeight: 100,
                                               pixelWidth: 100,
-                                              src: `https://framerusercontent.com/images/OhKnmxi82ZEbIYPHku1BUlrhTL4.jpeg?width=100&height=100`,
+                                              src: `images/OhKnmxi82ZEbIYPHku1BUlrhTL4.png?width=100&height=100`,
                                             },
                                             ``
                                           ),
                                           name: `Card/ Testimonial Card 2`,
                                           oHlymWWA0: `https://x.com/MandroDesign`,
-                                          rsuSWE2Wj: ` Arun Kumar`,
+                                          rsuSWE2Wj: ` Salesfore`,
                                           width: `100%`,
-                                          zJ7dVXMEI: `During Prerna's stint with Byjus. we got to work on some innovative solutions together. and she excelled on her role showcasing good commitment and dedication on projects.`,
+                                          zJ7dVXMEI: `Transforms customer experiences using intelligent automation and smart CRM innovation.`,
                                         }),
                                       }),
                                     }),
