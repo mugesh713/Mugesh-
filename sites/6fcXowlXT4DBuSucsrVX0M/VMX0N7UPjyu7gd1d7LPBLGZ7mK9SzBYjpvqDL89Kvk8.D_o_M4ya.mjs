@@ -34461,7 +34461,7 @@ var uv,
                                           style: {
                                             backgroundImage: `linear-gradient(90deg, rgb(255, 255, 255) 0%, rgba(153, 153, 153, 0) 350%)`,
                                           },
-                                          children: `Experience Cloud `,
+                                          children: `Web Application `,
                                         }),
                                       }),
                                     }),
